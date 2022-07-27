@@ -7,8 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Noman",
+  "license": "MIT",
   "dependencies": {
     "@chainsafe/libp2p-noise": "^7.0.1",
     "@libp2p/floodsub": "^3.0.2",
