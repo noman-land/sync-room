@@ -1,0 +1,20 @@
+{
+  "name": "sync-room",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chainsafe/libp2p-noise": "^7.0.1",
+    "@libp2p/floodsub": "^3.0.2",
+    "@libp2p/mplex": "^4.0.2",
+    "@libp2p/websockets": "^3.0.1",
+    "ipfs-pubsub-room": "^3.0.0",
+    "libp2p": "^0.37.3"
+  }
+}
