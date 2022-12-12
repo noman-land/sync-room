@@ -15,6 +15,6 @@
     "@libp2p/mplex": "^4.0.2",
     "@libp2p/websockets": "^3.0.1",
     "ipfs-pubsub-room": "^3.0.0",
-    "libp2p": "^0.37.3"
+    "libp2p": "^0.38.0"
   }
 }
